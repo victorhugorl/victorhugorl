@@ -1,4 +1,4 @@
-# Victor Lima
+<h1 style="">Victor Lima</h1>
 
 ## Sobre Mim
 
@@ -10,7 +10,11 @@ Olá! 👋 Eu sou Victor Hugo Rangel Lima, um entusiasta da tecnologia, jogos di
 
 ### Tecnologias que uso 🧑🏻‍💻
 
-[![My Skills](https://skillicons.dev/icons?i=,discord,vscode,github,git&theme=light)](https://skillicons.dev) E outros...
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,gihub,linux,discord,vscode,django" />
+  </a>
+</p>
 
 ### Linguagens que uso 💻
 
