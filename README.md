@@ -1,6 +1,6 @@
 
 
-<div align="center"  style="color: rgb(65,105,225); font-size: 20px;"><h1>Victor Lima</h1></div>
+<div align="center"><h1>Victor Lima</h1></div>
 
 ## Sobre Mim
 
