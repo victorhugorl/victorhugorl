@@ -12,7 +12,7 @@ Olá! 👋 Eu sou Victor Hugo Rangel Lima, um entusiasta da tecnologia, jogos di
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,gihub,linux,discord,vscode,django" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,discord,vscode,django" />
   </a>
 </p>
 
