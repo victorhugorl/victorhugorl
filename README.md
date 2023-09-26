@@ -1,6 +1,6 @@
 
 
-<h1 aling="center">Victor Lima</h1>
+<div align="center"><h1>Victor Lima</h1></div>
 
 ## Sobre Mim
 
