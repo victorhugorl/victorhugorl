@@ -1,16 +1,31 @@
-# Olá eu sou Victor Lima
+# Victor Lima
 
-<!--
-**victorhugorl/victorhugorl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
 
-Here are some ideas to get you started:
+Olá! 👋 Eu sou Victor Hugo Rangel Lima, um entusiasta da tecnologia, jogos digitais e IA . Este é o meu espaço onde compartilho conhecimento, projetos e explorando o mundo da programação com diversas linguagens.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Atualmente, estou aprendendo HTML/CSS e Python.
+<!-- 💼 Trabalho como [sua profissão ou ocupação]. -->
+- 📫 Como entrar em contato comigo: [seu endereço de e-mail ou redes sociais].
+
+  ### Linguagens que uso 💻
+
+[![My Skills](https://skillicons.dev/icons?i=py,html,css&theme=light)](https://skillicons.dev)
+
+## Projetos Destacados
+
+Aqui estão alguns dos projetos que estou mais orgulhoso:
+
+- [APP - Percepção Musical](link_do_projeto_1): Projeto em desenvolvimento de um aplicativo para musicos
+
+
+## Contato
+
+Você pode entrar em contato comigo através do meu e-mail victorlimasg@outlook.com
+
+## Agradecimentos
+
+Agradeço por visitar o meu perfil e espero que encontre informações úteis e interessantes aqui. Sinta-se à vontade para explorar meus projetos, ler meus artigos e entrar em contato comigo se tiver alguma pergunta ou colaboração em mente.
+
+
+
