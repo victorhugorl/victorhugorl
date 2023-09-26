@@ -13,10 +13,8 @@ Olá! 👋 Eu sou Victor Hugo Rangel Lima, um entusiasta da tecnologia, jogos di
 ### Tecnologias que uso 🧑🏻‍💻
 
 <p align="left">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,linux,discord,vscode,django,github" />
-  </a>
-</p>
+  </p>
 
 ### Linguagens que uso 💻
 
@@ -34,7 +32,7 @@ Olá! 👋 Eu sou Victor Hugo Rangel Lima, um entusiasta da tecnologia, jogos di
 
 Aqui estão alguns dos projetos que estou mais orgulhoso:
 
-- [APP - Percepção Musical](link_do_projeto_1): Projeto em desenvolvimento de um aplicativo para musicos
+- [APP - Percepção Musical](https://github.com/victorhugorl/percepcao_musical_app): Projeto em desenvolvimento de um aplicativo para musicos
 
 
 ## Contato
