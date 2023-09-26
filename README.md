@@ -10,7 +10,7 @@ Olá! 👋 Eu sou Victor Hugo Rangel Lima, um entusiasta da tecnologia, jogos di
 
 ### Tecnologias que uso 🧑🏻‍💻
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,linux,discord,vscode,django,github" />
   </a>
@@ -19,6 +19,14 @@ Olá! 👋 Eu sou Victor Hugo Rangel Lima, um entusiasta da tecnologia, jogos di
 ### Linguagens que uso 💻
 
 [![My Skills](https://skillicons.dev/icons?i=py,html,css&theme=light)](https://skillicons.dev)
+
+### Linguagens que pretendo estudar 💻🌱 
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,php,mysql,cpp" />
+  </a>
+</p>
 
 ## Projetos Destacados
 
