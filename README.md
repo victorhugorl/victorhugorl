@@ -1,12 +1,20 @@
-<h1 style="">Victor Lima</h1>
+<style>
+  h1{
+    text-aling: center;
+    font-size: 20px;
+    
+  }
+</style>
+
+<h1>Victor Lima</h1>
 
 ## Sobre Mim
 
-Olá! 👋 Eu sou Victor Hugo Rangel Lima, um entusiasta da tecnologia, jogos digitais e IA . Este é o meu espaço onde compartilho conhecimento, projetos e explorando o mundo da programação com diversas linguagens.
+Olá! 👋 Eu sou Victor Hugo Rangel Lima, um entusiasta da tecnologia, jogos digitais e IA . Este é o meu espaço onde compartilho conhecimento, projetos e explorando o mundo da programação com diversas linguagens como Python e HTML, sou apaixonado por aprender coisas novas e adquirir conhecimento, sempre busco inovação e excelência nos meus projetos.
 
 - 🌱 Atualmente, estou aprendendo HTML/CSS e Python.
 <!-- 💼 Trabalho como [sua profissão ou ocupação]. -->
-- 📫 Como entrar em contato comigo: [seu endereço de e-mail ou redes sociais].
+- 📫 Como entrar em contato comigo: 
 
 ### Tecnologias que uso 🧑🏻‍💻
 
@@ -24,7 +32,7 @@ Olá! 👋 Eu sou Victor Hugo Rangel Lima, um entusiasta da tecnologia, jogos di
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,php,mysql,cpp" />
+    <img src="https://skillicons.dev/icons?i=js,php,mysql,cpp,kotlin,swift" />
   </a>
 </p>
 
