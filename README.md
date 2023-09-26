@@ -8,7 +8,11 @@ Olá! 👋 Eu sou Victor Hugo Rangel Lima, um entusiasta da tecnologia, jogos di
 <!-- 💼 Trabalho como [sua profissão ou ocupação]. -->
 - 📫 Como entrar em contato comigo: [seu endereço de e-mail ou redes sociais].
 
-  ### Linguagens que uso 💻
+### Tecnologias que uso 🧑🏻‍💻
+
+[![My Skills](https://skillicons.dev/icons?i=,discord,vscode,github,git&theme=light)](https://skillicons.dev) E outros...
+
+### Linguagens que uso 💻
 
 [![My Skills](https://skillicons.dev/icons?i=py,html,css&theme=light)](https://skillicons.dev)
 
