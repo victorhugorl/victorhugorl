@@ -1,14 +1,6 @@
-<head>
-  <style>
-    h1{
-      text-aling: center;
-      font-size: 20px;
-      
-    }
-  </style>
-</head>
 
-<h1>Victor Lima</h1>
+
+<h1 aling="center">Victor Lima</h1>
 
 ## Sobre Mim
 
