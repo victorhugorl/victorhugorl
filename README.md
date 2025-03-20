@@ -24,7 +24,7 @@ Olá! 👋 Eu sou Victor Hugo Rangel Lima, um entusiasta da tecnologia, jogos di
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,mysql,cpp,kotlin,swift" />
+    <img src="https://skillicons.dev/icons?i=mysql,kotlin,swift" />
   </a>
 </p>
 
