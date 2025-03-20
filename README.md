@@ -18,7 +18,7 @@ Olá! 👋 Eu sou Victor Hugo Rangel Lima, um entusiasta da tecnologia, jogos di
 
 ### Linguagens que uso 💻
 
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,cs,angular&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,ts,angular,cs&theme=light)](https://skillicons.dev)
 
 ### Linguagens que pretendo estudar 💻🌱 
 
